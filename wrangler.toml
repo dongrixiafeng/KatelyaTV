@@ -7,4 +7,4 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "tv"
-database_id = "6e9651fa-c446-432a-a6d9-c593e8ff8b8f"
+database_id = "68fd764d-5c68-4628-91a6-67cb19532dbf"
